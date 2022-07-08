@@ -1,9 +1,9 @@
 
 var on=0;
-var home=document.getElementById('home');
-home.addEventListener('click',function(){
-    home.classList.add('border');
-})
+// var home=document.getElementById('home');
+// home.addEventListener('click',function(){
+//     home.classList.add('border');
+// })
 
 
 var menu=document.querySelector('.menu');
