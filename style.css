@@ -76,7 +76,8 @@ nav {
     position: absolute;
     height: 1000px;
     width: 300px;
-    background-color: aliceblue;
+    background-color: black;
+    color: white;
     right: 15%;
     display: none;
 }
